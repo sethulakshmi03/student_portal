@@ -1,0 +1,115 @@
+.container {
+    background-color: #FBFBFD;
+}
+.d-part {
+   /* -webkit-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      position: absolute;
+      top: 230px;
+    left: 225px;
+    width: 33.33%
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font-style: normal 900 40px/50px;
+    font-family: Lato;
+    letter-spacing: 0px;
+    color: #1C1D21;
+    text-transform: uppercase;
+    opacity: 1;*/
+     -webkit-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      position: absolute;
+      top: 230px;
+      left: 225px;
+    /*background-color: bisque;*/
+    
+}
+.i-part {
+    -webkit-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      position: absolute;
+    top: 345px;
+left: 552px;
+width: 508px;
+height: 383px;
+opacity: 1;
+    padding-left: 100px;
+    /*background-color: antiquewhite;*/
+}
+.l-part{
+    -webkit-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      position: absolute;
+      top: 150px;
+    width: 33.33%;
+    height: 400px;
+    left: 75%;
+    align-items: center;
+   /* background-color: aquamarine;*/
+    padding: 20px;
+    padding-top: 150px;
+    padding-left: 150px;
+}
+.h-tag {
+          /*-webkit-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+      position: absolute;
+      top: 150px;
+      left: 225px;*/
+    text-align: left;
+    font-style: normal 900 40px/50px;
+    font-family: Lato;
+    letter-spacing: 1px;
+    color: #1C1D21;
+    text-transform: uppercase;
+    opacity: 1;
+    
+}
+.d-part p {
+    font-style: normal;
+    font-size: 16;
+    font-family: Lato;
+    
+    top: 100px;
+    
+text-align: left;
+font: normal normal medium 16px/21px Lato;
+color: #5B5B5B;
+opacity: 1;
+}
+.box {
+    
+    text-align: center;
+    top: 489px;
+    left: 250px;
+    width: 250px;
+    height: 30px;
+   
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #5E81F4;
+border-radius: 5px;
+opacity: 1;
+}
+/*.box.p {
+    color: #5E81F4;
+    
+}*/
+.l-part.login-form {
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    left: 75% ;
+    top: 250px;
+}
+
+.i-part.img {
+    opacity: 0.5
+}
+input[type="text"],input[type="password"] {
+    margin-left: 20px;
+    width: 100%;
+    border: transparent;
+}
+/*.l-part img {
+    top: 500px;
+    
+}*/
